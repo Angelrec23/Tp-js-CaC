@@ -1,0 +1,101 @@
+.bg-secondary{
+    background-color: rgb(79, 78, 78) !important;
+}
+
+#verde{
+    color: rgb(0, 233, 0) !important;
+}
+
+#photo0{
+    width: 100px;
+    height: 55px;
+    margin-left: 50px;
+}
+
+nav{
+    height: 80px;
+
+}
+
+
+ul{
+    margin-left: 220px;
+}
+
+#CBS{
+    margin-bottom: 10px;
+}
+
+.contenedor{
+    position: relative;
+    display: inline;
+    filter: brightness(50%);
+}
+
+.d-block::before{
+background-color: black;
+}
+
+.centrado{
+    position: absolute;
+    top: 180px;
+    color: aqua;
+    margin-right: 105px;
+}
+
+.h2{
+    color: white;
+    text-align: right
+}
+
+.p{
+    text-align: right;
+    margin-left:  627px;
+    color: white;
+}
+
+.button{
+    margin-left: 828.7px;
+    font-size: larger !important;
+}
+
+.btn-secondary{
+    background-color:rgb(83, 185, 83) !important;
+}
+
+.carousel-item{
+    filter: brightness(50%);
+}
+
+#cf1{
+    display: flex;
+    justify-content: center;
+}
+
+.div-izq {
+    background-color: rgb(118, 118, 118);
+    margin-left: -12px;
+}
+
+.btn-success{
+    background-color: rgb(117,182,0.07) !important;
+}
+
+#nav-item{
+    margin-left: 5%;
+}
+
+#nav-item2{
+    margin-left: -8%;
+}
+
+
+.bg-dark{
+    background-color: rgb(30, 84, 94) !important;
+}
+
+#cont-div{
+    width: 700px;
+    
+}
+
